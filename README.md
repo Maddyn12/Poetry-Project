@@ -4,4 +4,4 @@ I used Professor Whalens template where he uses "This is Just to Say" by William
 
 
 ## Idea
-The idea for this code is to take the parts of speech in a poem, tag them, and then output a poem that has random parts of speech that are different from the orginial poem. I have also added some words to some of the lists to create more randomness in the poem. 
+The idea for this code is to take the parts of speech in a poem, tag them, and then output a poem that has random parts of speech along with random punctuation that are different from the orginial poem. I have also added some words to some of the lists to create more randomness in the poem. 
